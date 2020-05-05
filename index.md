@@ -59,6 +59,7 @@
 * [NTP DC configuration](https://github.com/egoni/documentation/wiki/Windows-DC-ntp-configuration)
 * [RDP CredSSP client workaround](https://github.com/egoni/documentation/wiki/RDP-CredSSP-client-workaround)
 * [Create LPR print job](https://github.com/egoni/documentation/wiki/Create-LPR-print-job)
+* [AD move operation master roles](https://github.com/egoni/egoni.github.io/wiki/AD-move-operation-master-roles)
 
 ### Hyper-V
 * [Linux EFI boot loader fix](https://github.com/egoni/egoni.github.io/wiki/Hyper-V-linux-EFI-boot-loader-fix)
