@@ -44,6 +44,7 @@
 * [Message of the day](https://github.com/egoni/egoni.github.io/wiki/Message-of-the-day)
 * [Create swap file](https://github.com/egoni/documentation/wiki/Create-swap-file)
 * [Uncomplicated firewall ufw examples](https://github.com/egoni/documentation/wiki/Uncomplicated-firewall-ufw-examples)
+* [Ubuntu Docker quick installation](https://github.com/egoni/egoni.github.io/wiki/Ubuntu-docker-quick-installation)
 
 ## Microsoft
 ### Cloud
