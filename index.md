@@ -36,6 +36,7 @@
 ### SSH
 * [Configure multiple sshd instances](https://github.com/egoni/egoni.github.io/wiki/SSH-configure-multiple-sshd-instanaces)
 * [TOR connection](https://github.com/egoni/documentation/wiki/TOR-connection)
+* [Hardening SSH daemon](https://github.com/egoni/egoni.github.io/wiki/Hardening-SSH-daemon)
 
 ### Misc
 * [Disable CTRL+ALT+DEL reboot](https://github.com/egoni/egoni.github.io/wiki/Disable-CTRL-ALT-DEL-reboot)
